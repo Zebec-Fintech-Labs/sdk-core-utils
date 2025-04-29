@@ -32,5 +32,10 @@
 	},
 	"peerDependencies": {
 		"bignumber.js": "^9.3.0"
-	}
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zebec-Fintech-Labs/sdk-core-utils.git"
+  },
+  "homepage": "https://github.com/Zebec-Fintech-Labs/sdk-core-utils#README"
 }
