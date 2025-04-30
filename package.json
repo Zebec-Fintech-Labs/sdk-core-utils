@@ -1,6 +1,6 @@
 {
 	"name": "@zebec-network/core-utils",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"license": "MIT",
@@ -33,9 +33,9 @@
 	"peerDependencies": {
 		"bignumber.js": "^9.3.0"
 	},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Zebec-Fintech-Labs/sdk-core-utils.git"
-  },
-  "homepage": "https://github.com/Zebec-Fintech-Labs/sdk-core-utils#README"
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Zebec-Fintech-Labs/sdk-core-utils.git"
+	},
+	"homepage": "https://github.com/Zebec-Fintech-Labs/sdk-core-utils#README"
 }
